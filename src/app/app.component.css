@@ -1,0 +1,57 @@
+textarea {
+  font-size: 13px;
+  background-color: #ebebeb;
+}
+
+.error-hidden {
+  display: none;
+}
+
+span {
+  font-size: 10 !important;
+}
+
+.btn-primary {
+  background-color: #005999;
+}
+
+.btn-primary:active {
+  background-color: #005999 !important;
+}
+
+.table .thead-dark th {
+  color: #fff;
+  background-color: #005999;
+  border-color: #005999;
+}
+
+table>tbody>tr>td>input {
+  background-color: #ebebeb;
+  border-radius: 0;
+}
+
+.btn-outline-primary {
+  color: #005999;
+  border-color: #005999;
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #005999;
+  border-color: #005999;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled):active,
+.show>.btn-outline-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #005999;
+  border-color: #005999;
+}
+
+textarea {
+  font-size: 16px;
+}
+
+.text-primary {
+  color: #005999 !important;
+}
